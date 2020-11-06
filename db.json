@@ -191,57 +191,7 @@
       "deeplink"        : "",
 
       "posts" : []
-    },
-
-    {
-      "id"              : "5",
-      "name"            : "roanabandeira",
-      "friendly_name"   : "roanabandeira",
-      "avatar"          : "https://avatar-cdn.liketoknow.it/5cfa71e4-2633-11e9-9fed-0242ac110002.f42bc143-9f30-4024-bab1-ca3e27c380f9",
-      "deeplink"        : "",
-
-      "posts" : []
-    },
-
-    {
-      "id"              : "6",
-      "name"            : "cranberrytantrums",
-      "friendly_name"   : "cranberrytantrums",
-      "avatar"          : "https://avatar-cdn.liketoknow.it/4c5b27a4-ff30-11e5-96ef-22000b0f8f3a.93e7a1b5-5774-4460-a6ad-f9f832de9fa8",
-      "deeplink"        : "",
-
-      "posts" : []
-    },
-
-    {
-      "id"              : "7",
-      "name"            : "vanessa_oblinsky",
-      "friendly_name"   : "vanessa_oblinsky",
-      "avatar"          : "https://avatar-cdn.liketoknow.it/95b27454-7f5a-11e8-9fed-0242ac110002.ca18cd68-c670-421d-8968-5eb38d460f6c",
-      "deeplink"        : "",
-
-      "posts" : []
-    },
-
-    {
-      "id"              : "8",
-      "name"            : "caraloren",
-      "friendly_name"   : "caraloren",
-      "avatar"          : "https://avatar-cdn.liketoknow.it/4bda932a-ff30-11e5-96ef-22000b0f8f3a.4229f131-4d6e-4a12-8716-a2721f114d92",
-      "deeplink"        : "",
-
-      "posts" : []
-    },
-
-    {
-      "id"              : "9",
-      "name"            : "barbarabrigido",
-      "friendly_name"   : "barbarabrigido",
-      "avatar"          : "https://avatar-cdn.liketoknow.it/711fa4dc-1c41-11e8-9fed-0242ac110002.971ca59e-76b3-4091-9832-199ffdbc92cb",
-      "deeplink"        : "",
-
-      "posts" : []
-    },
+    }
       
   ]
 }
