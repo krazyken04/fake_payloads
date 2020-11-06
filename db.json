@@ -53,34 +53,12 @@
       "avatar"          : "https://avatar-cdn.liketoknow.it/01802b08-3413-11e6-9fed-0242ac110002.1ee1af17-9613-4a60-99dd-ad02d00408ab",
       "deeplink"        : "",
 
-      "posts"           : [
-
-        {
-          "id"          : "0",
-          "post_image"  : "https://images.liketoknow.it/e6ca7a61-1f85-11eb-b089-0242ac110004?fm=jpeg&auto=format&w=405&dpr=4",
-          "caption"     : "Amazon finds! Click below to shop! Follow me @interiordesignerella for more exclusive posts & sales!!! So glad you’re here! Xo!!!❤️🥰👯‍♀️🌟 #liketkit @liketoknow.it #StayHomeWithLTK #LTKsalealert #LTKunder50 http://liketk.it/30ogU"
-        },
-
-        {
-          "id"          : "1",
-          "post_image"  : "https://images.liketoknow.it/2bece537-1f86-11eb-b21c-0242ac110003?fm=jpeg&amp;auto=format&amp;w=405&amp;dpr=4",
-          "caption"     : "Amazon finds! Click below to shop! Follow me @interiordesignerella for more exclusive posts & sales!!! So glad you’re here! Xo!!!❤️🥰👯‍♀️🌟 #liketkit @liketoknow.it #StayHomeWithLTK #LTKsalealert #LTKunder50 http://liketk.it/30ogU"
-        },
-
-        {
-          "id"          : "2",
-          "post_image"  : "https://images.liketoknow.it/95edbb46-1f83-11eb-b089-0242ac110004?fm=jpeg&amp;auto=format&amp;w=405&amp;dpr=4",
-          "caption"     : "Amazon finds! Click below to shop! Follow me @interiordesignerella for more exclusive posts & sales!!! So glad you’re here! Xo!!!❤️🥰👯‍♀️🌟 #liketkit @liketoknow.it #StayHomeWithLTK #LTKsalealert #LTKunder50 http://liketk.it/30ogU"
-        },
-
-        {
-          "id"          : "3",
-          "post_image"  : "https://images.liketoknow.it/ae8c8d38-1f85-11eb-b089-0242ac110004?fm=jpeg&amp;auto=format&amp;w=405&amp;dpr=4",
-          "caption"     : "Amazon finds! Click below to shop! Follow me @interiordesignerella for more exclusive posts & sales!!! So glad you’re here! Xo!!!❤️🥰👯‍♀️🌟 #liketkit @liketoknow.it #StayHomeWithLTK #LTKsalealert #LTKunder50 http://liketk.it/30ogU"
-        }
-
+      "posts" : [
+        {"post_image" : "https://picsum.photos/338/422?random=50"},
+        {"post_image" : "https://picsum.photos/338/422?random=51"},
+        {"post_image" : "https://picsum.photos/338/422?random=52"},
+        {"post_image" : "https://picsum.photos/338/422?random=53"}
       ]
-
     },
 
     {
